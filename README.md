@@ -1,2 +1,2 @@
 # HW-Wireframe
-Homework week 1
+a simple wireframe
